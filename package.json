@@ -1,0 +1,28 @@
+{
+  "name": "genski",
+  "version": "1.0.0",
+  "description": "Evented server for static site management",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sterlingwes/genski"
+  },
+  "keywords": [
+    "static",
+    "site",
+    "server",
+    "generator"
+  ],
+  "author": "Wes Johnson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sterlingwes/genski/issues"
+  },
+  "homepage": "https://github.com/sterlingwes/genski",
+  "dependencies": {
+    "connect": "^3.3.3"
+  }
+}
